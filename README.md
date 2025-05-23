@@ -21,7 +21,7 @@ This Power BI dashboard analyzes campus placement trends based on degree type, s
 - Data Cleaning in Power Query
 
 ## 📸 Preview
-![Dashboard Screenshot](screenshots/main_dashboard.png)
+![Dashboard Screenshot](Placement.png)
 
 ---
 
